@@ -7,7 +7,7 @@ Laboratório de IAM e Access Governance utilizando NotebookLM, normas e framewor
 Este projeto foi desenvolvido com foco em Identity and Access Management (IAM) e Governança de Segurança da Informação, utilizando o NotebookLM como ferramenta de apoio à análise, correlação e organização do conhecimento. 
 
 O estudo parte de um cenário recorrente em ambientes corporativos: 
-$\color{green}{/text{um usuário autenticado que não consegue visualizar determinada organização ou recurso dentro de um sistema.}}$
+$\color{green}{\text{um usuário autenticado que não consegue visualizar determinada organização ou recurso dentro de um sistema.}}$
 Embora inicialmente possa parecer um problema simples de acesso, o cenáro permite explorar diferentes camadas relacionadas à gestão de identidades, autorização, perfis de acesso, vínculo organizacional, políticas de segurança e governança.
 
 Para construir a base de conhecimento do NotebookLM, foram selecionados materiais relacionados a IAM, RBAC, princípio do menor privilégio, Zero Trust, autenticação, autorização, controle de acesso e Governança de Segurança, incluindo conteúdos associados a referências como <span style="color:green">NIST SP 800-53, NIST SP 800-63, ISO/IEC 27001, ISO/IEC 27002 E OWASP</span>
