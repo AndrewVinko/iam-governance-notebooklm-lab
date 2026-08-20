@@ -33,7 +33,7 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 
 ⚪ desenvolver e testar diferentes estruturas de prompts para aumentar a precisão das análises;
 
-⚪ identificar $color{red}{\text{inferências, hipóteses excessivas e limitações</span> apresentadas pela IA}}$ durante a investigação; 
+⚪ identificar $\color{red}{\text{inferências, hipóteses excessivas e limitações</span> apresentadas pela IA}}$ durante a investigação; 
 
 ⚪ documentar as chamadas **cicatrizes**, registrando erros, limitações e ajustes realizados durante o processo.
 
