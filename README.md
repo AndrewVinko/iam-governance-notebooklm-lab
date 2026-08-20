@@ -37,7 +37,7 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 
 ⚪ documentar as chamadas **cicatrizes**, registrando erros, limitações e ajustes realizados durante o processo.
 
-⚪ construir ao final um miniguia de estudo reutilizável sobre $\color{blue}{\textIAM e Governança de Segurança da Informação.}}$
+⚪ construir ao final um miniguia de estudo reutilizável sobre $\color{blue}{\text{IAM e Governança de Segurança da Informação.}}$
 
 **Resultado Esperado**
 
