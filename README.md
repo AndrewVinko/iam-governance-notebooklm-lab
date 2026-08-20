@@ -17,11 +17,11 @@ Para isso, o mesmo cenário é submetido ao NotebookLM em diferentes etapas, per
 
 **Objetivo Geral**
 
-Investigar como princípios de IAM e Governança de Segurança da Informação podem ser utilizados para analisar problemas de acesso em ambientes corporativos e, simultaneamente, avaliar como a <span style="green">curadoria de fontes e a engenharia de prompts influenciam a qualidade das respostas produzidas por uma IA baseada em fontes.</span>
+Investigar como princípios de IAM e Governança de Segurança da Informação podem ser utilizados para analisar problemas de acesso em ambientes corporativos e, simultaneamente, avaliar como a $\color{green}{\text{curadoria de fontes e a engenharia de prompts influenciam a qualidade das respostas produzidas por uma IA baseada em fontes.}}$
 
 **Objetivos Específicos**
 
-⚪ Compreender a diferença entre <span style="color:green">autenticação, autorização, vínculo de identitdade, perfil/role e políticas de acesso;</span>
+⚪ Compreender a diferença entre $\color{green}{\text{autenticação, autorização, vínculo de identitdade, perfil/role e políticas de acesso;}}$
 
 ⚪ estudar conceitos de <span style="color:green">RBAC, menor privilégio, segregação de funções e Zero Trust;</span>
 
