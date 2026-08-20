@@ -41,7 +41,7 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 
 **Resultado Esperado**
 
-Ao final do projeto, espera-se obter uma base de conhecimento organizada capaz de apoiar estudos e análises sobre <span style="color:green">gestão de identidades e controle de acesso</span>, demonstrando não apenas conceitos técnicos de Cybersecurity, mas também a importância da <span style="color:green">qualidade das fontes, validação das evidências e construção adequada de prompts</span> ao utilizar Inteligência Artificial como ferramenta de apoio à análise técnica.
+Ao final do projeto, espera-se obter uma base de conhecimento organizada capaz de apoiar estudos e análises sobre $\color{green}{\text{gestão de identidades e controle de acesso}}$, demonstrando não apenas conceitos técnicos de Cybersecurity, mas também a importância da $\color{green}{\text{qualidade das fontes, validação das evidências e construção adequada de prompts}}$ ao utilizar $\color{blue}{\texto{Inteligência Artificial}}$ como ferramenta de apoio à análise técnica.
 
 
 
