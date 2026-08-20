@@ -23,9 +23,9 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 
 ⚪ Compreender a diferença entre $\color{green}{\text{autenticação, autorização, vínculo de identitdade, perfil/role e políticas de acesso;}}$
 
-⚪ estudar conceitos de <span style="color:green">RBAC, menor privilégio, segregação de funções e Zero Trust;</span>
+⚪ estudar conceitos de $\color{green}{\text{RBAC, menor privilégio, segregação de funções e Zero Trust;}}$
 
-⚪ relacionar controles e boas práticas apresentados por referências como <span style="color:green">NIST, ISO/IEC e OWASP</span> com cenários de controle de acesso;
+⚪ relacionar controles e boas práticas apresentados por referências como $\color{green}{\text{NIST, ISO/IEC e OWASP}}$ com cenários de controle de acesso;
 
 ⚪ utilizar o NotebookLM para correlacionar informações provenientes de diferentes fontes de segurança; 
 
@@ -33,7 +33,7 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 
 ⚪ desenvolver e testar diferentes estruturas de prompts para aumentar a precisão das análises;
 
-⚪ identificar <span style="color:green">inferências, hipóteses excessivas e limitações</span> apresentadas pela IA durante a investigação; 
+⚪ identificar $color{red}{\text{inferências, hipóteses excessivas e limitações</span> apresentadas pela IA}}$ durante a investigação; 
 
 ⚪ documentar as chamadas **cicatrizes**, registrando erros, limitações e ajustes realizados durante o processo.
 
