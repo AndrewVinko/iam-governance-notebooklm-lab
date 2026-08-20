@@ -10,7 +10,7 @@ O estudo parte de um cenário recorrente em ambientes corporativos:
 $\color{red}{\text{um usuário autenticado que não consegue visualizar determinada organização ou recurso dentro de um sistema.}}$
 Embora inicialmente possa parecer um problema simples de acesso, o cenáro permite explorar diferentes camadas relacionadas à gestão de identidades, autorização, perfis de acesso, vínculo organizacional, políticas de segurança e governança.
 
-Para construir a base de conhecimento do NotebookLM, foram selecionados materiais relacionados a IAM, RBAC, princípio do menor privilégio, Zero Trust, autenticação, autorização, controle de acesso e Governança de Segurança, incluindo conteúdos associados a referências como <span style="color:green">NIST SP 800-53, NIST SP 800-63, ISO/IEC 27001, ISO/IEC 27002 E OWASP</span>
+Para construir a base de conhecimento do NotebookLM, foram selecionados materiais relacionados a IAM, RBAC, princípio do menor privilégio, Zero Trust, autenticação, autorização, controle de acesso e Governança de Segurança, incluindo conteúdos associados a referências como $\color{red}{\text{NIST SP 800-53, NIST SP 800-63, ISO/IEC 27001, ISO/IEC 27002 E OWASP.}}$
 
 Além da análise técnica do problema, o projeto também busca avaliar o próprio comportamento da Inteligência Artificial diante de diferentes níveis de contexto.
 Para isso, o mesmo cenário é submetido ao NotebookLM em diferentes etapas, permitindo comparar respostas obtidas <span style="color:green">sem fontes, após a curadoria de conteúdo e após o refinamento dos prompts.</span>
