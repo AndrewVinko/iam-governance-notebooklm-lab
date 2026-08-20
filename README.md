@@ -44,7 +44,9 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 Ao final do projeto, espera-se obter uma base de conhecimento organizada capaz de apoiar estudos e análises sobre $\color{green}{\text{gestão de identidades e controle de acesso}}$, demonstrando não apenas conceitos técnicos de Cybersecurity, mas também a importância da $\color{green}{\text{qualidade das fontes, validação das evidências e construção adequada de prompts}}$ ao utilizar $\color{blue}{\text{Inteligência Artificial}}$ como ferramenta de apoio à análise técnica.
 
 
+**Curadaoria de Fontes** 
 
+A curadoria de fontes foi realizada com o objetivo de construir uma base de conhecimento tecnicamente confiável para o NotebookLM, priorizando contéudos relacionados a $\color{green}{\text{Identity and Access Management (IAM), Governança de Segurança da Informação, controle de acesso, autenticação, autorização e Zero Trust.}}$
 
 
 
