@@ -73,12 +73,14 @@ As fontes selecionadas abaixo serão utilizadas como base documental principal d
 
 **Tema:** Security and Privacy Controls for Information Systems and Organizations.
 **Aplicação no projeto:** controles relacionados a acesso, identificação, autenticação, auditoria e gerenciamento de privilégios. 
+
 **Fonte:** https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final}}$
 
 2. $\color{blue}{\text{NIST SP 800-63}}$
 
 **Tema:** Digital Identity Guidelines. 
 **Aplicação no projeto:** conceitos relacionados à identidade digital, autenticação, credenciais e ciclo de vida das identidades. 
+
 **Fonte:** https://csrc.nist.gov/pubs/sp/800/63/4/final
 
 3. $\color{blue}{\text{NIST SP 800-207}}$
