@@ -87,18 +87,21 @@ As fontes selecionadas abaixo serão utilizadas como base documental principal d
 
 **Tema:** Zero Trust Architecture
 **Aplicação no projeto:** análise de decisões de acesso baseadas em identidade, contexto, políticas e ausência de confiança implícita.
+
 **Fonte:** https://csrc.nist.gov/pubs/sp/800/207/final
 
 4. $\color{blue}{\text{ISO/IEC 27001 e ISO/IEC 27002}}$
 
 **Tema:** Sistema de Gestão de Segurança da Informação e controles de segurança. 
 **Aplicação no projeto:** governança, políticas de controle de acesso, gestão de identidades, privilégios e responsabilidades relacionadas à Segurança da Informação.
+
 **Fonte:** https://www.iso.org/standard/27001 & https://www.iso.org/standard/75652.html
 
 5. $\color{blue}{\text{OWASP}}$
 
 **Tema:** Autenticação, autorização e controle de acesso.
 **Aplicação no projeto:** apoio técnico para compreender falhas e boas práticas relacionadas à implementação de mecanismos de autenticação e autorização em aplicações.
+
 **Fonte:** https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html & https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html
 
 **Papel das fontes no Experimento**
