@@ -115,7 +115,7 @@ A utilização dessas fontes não tem apenas a finalidade de reunir conteúdo so
 
 Ao longo do projeto, respostas produzidas com diferentes níveis de contexto serão comparadas para observar como a $\color{red}{\text{qualidade, autoridade e especificidade das fontes}}$ influenciam a capacidade da IA de formular hipóteses, correlacionar conceitos e evitar inferências não sustentadas pelo material disponível.
 
-Essa abordagem permite avaliar não apenas $\color{red}{\text{o que a IA responde}}$, mas principalmente $\color{red}{\text{em quais evidências ela fundamenta sua resposta.
+Essa abordagem permite avaliar não apenas $\color{red}{\text{o que a IA responde}}$, mas principalmente $\color{red}{\text{em quais evidências ela fundamenta sua resposta.}}$
 
 
 
