@@ -151,9 +151,42 @@ Um prompt, mesmo sendo pertinente ao problema, não é suficiente quando a IA n�
 #### $\color{red}{\text{Aprendizado}}$
 Antes de aprimorar a engenharia do prompt, é necessário construir uma base de conhecimento confiável, relevante e alinhada ao problema que será analisado.
 
+### $\color{red}{\text{Teste 02 - Mesmo prompt após a curadoria inicial de fontes}}$
 
+#### $\color{red}{\text{Prompt utilizado}}$
+Um usuário não consegue visualizar uma empresa em determinado sistema. 
+Quais podem ser as causas??
 
+#### $\color{red}{\text{Contexto do teste}}$
+O mesmo prompt utilizado no $\color{red}{\text{Teste 01}}$ foi executado novamente após a inclusão de aproximadamente 20 fontes audiovisuais relacionadas a IAM, Governança, NIST, ISO 27001/27002, Zero Trust, autenticação e controle de acesso.
 
+#### $\color{red}{\text{Resultado observado}}$
+Diferentemente do primeiro teste, o NotebookLM passou a apresentar hipóteses técnicas fundamentadas nas fontes fornecidas. 
+
+Entre as possibilidades levantadas estavam: 
+
+- ausência de autorização ou privilégio adequado;
+- aplicação do princípio do menor privilégio;
+- políticas de acesso baseadas em contexto;
+- restrições relacionadas a Zero Trust;
+- dispositivo ou localização não autorizados;
+- microsegmentação e Software Defined Perimeter;
+- regras de segregação e conflito de interesses;
+- expiração de sessão ou token;
+- problemas relacionados a credenciais de integração.
+
+#### $\color{red}{\text{Evolução observada}}$
+A inclusão das fontes transformou significativamente a capacidade de análise do modelo. O NotebookLM deixou de apresentar ausência de contexto e passou a correlacionar o cenário com conceitos de IAM, Governança e arquitetura de segurança. 
+
+#### $\color{red}{\text{Cicatriz 02 - Excesso de hipóteses}}$
+Apesar da melhora técnica, a resposta apresentou hipóteses avançadas que não estavam necessáriamente sustentadas pelo cenário informado.
+
+Conceitos cmo geolocalização, BYOD, microsegmentação, Brewer-Nash, JWT e credenciais de integração são tecnicamente possíveis, porém não havia evidências no prompt de que esses mecanismos estivessem implementados no ambiente analisado. 
+
+#### $\color{red}{\text{Aprendizado}}$
+Uma base de conhecimento mais rica não elimina a necessidade de uma boa engenharia de prompt. 
+
+Quanto maior o corpus disponível, maior também a necessidade de delimitar contexto, escopo, evidências conhecidas e nível de confiança esperado da resposta. 
 
 
 
