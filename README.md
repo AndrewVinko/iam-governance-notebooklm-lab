@@ -189,7 +189,17 @@ Uma base de conhecimento mais rica não elimina a necessidade de uma boa engenha
 Quanto maior o corpus disponível, maior também a necessidade de delimitar contexto, escopo, evidências conhecidas e nível de confiança esperado da resposta. 
 
 
+### $\color{red}{\text{Teste 03 - Prompt estruturado com mesma base de fontes}}$
 
+#### $\color{red}{\text{Prompt utilizado}}$ 
+Um usuário autenticado não consegue visualizar uma determinada empresa em um sistema corporativo.
+Analise o cenário sob a perspectiva de Identity and Access Management (IAM) e Governança de Segurança.
+Considere apenas hipóteses sustentadas pelas fontes disponíveis. Diferencie problemas de autenticação, autorização, vínculo entre identidade e organização, perfil/role e políticas de acesso. Para cada hipótese, informe qual evidência deveria ser verificada antes de considerá-la provável. Não assuma que mecanismos como Zero Trust, geolocalização, microsegmentação ou restrições de dispositivo estejam implementados sem evidências. Ao final, apresente uma ordem recomendada de investigação, partindo das causas mais simples e prováveis para as mais complexas. 
+
+#### $\color{red}{\text{Contexto do teste}}$ 
+Mesmo cenário do $\color{red}{\text{Teste 01 e Teste 02}}$. O usuário já está autenticado, porém determinada empresa não é exibida/disponibilizada no sistema.
+
+#### $\color{red}{\text{Resultado observado}}$
 
 
 
