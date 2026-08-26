@@ -1,7 +1,7 @@
 # iam-governance-notebooklm-lab
 Laboratório de IAM e Access Governance utilizando NotebookLM, normas e frameworks de cybersecurity para análise de cenários de controle de acesso e governança de identidades.
 
-**Contexto e Objetivos**
+## **Contexto e Objetivos**
 
 **Contexto:**
 Este projeto foi desenvolvido com foco em Identity and Access Management (IAM) e Governança de Segurança da Informação, utilizando o NotebookLM como ferramenta de apoio à análise, correlação e organização do conhecimento. 
@@ -15,7 +15,7 @@ Para construir a base de conhecimento do NotebookLM, foram selecionados materiai
 Além da análise técnica do problema, o projeto também busca avaliar o próprio comportamento da Inteligência Artificial diante de diferentes níveis de contexto.
 Para isso, o mesmo cenário é submetido ao NotebookLM em diferentes etapas, permitindo comparar respostas obtidas $\color{green}{\text{sem fontes, após a curadoria de conteúdo e após o refinamento dos prompts.}}$
 
-**Objetivo Geral**
+## **Objetivo Geral**
 
 Investigar como princípios de IAM e Governança de Segurança da Informação podem ser utilizados para analisar problemas de acesso em ambientes corporativos e, simultaneamente, avaliar como a $\color{green}{\text{curadoria de fontes e a engenharia de prompts influenciam a qualidade das respostas produzidas por uma IA baseada em fontes.}}$
 
@@ -44,14 +44,14 @@ Investigar como princípios de IAM e Governança de Segurança da Informação p
 Ao final do projeto, espera-se obter uma base de conhecimento organizada capaz de apoiar estudos e análises sobre $\color{green}{\text{gestão de identidades e controle de acesso}}$, demonstrando não apenas conceitos técnicos de Cybersecurity, mas também a importância da $\color{green}{\text{qualidade das fontes, validação das evidências e construção adequada de prompts}}$ ao utilizar $\color{blue}{\text{Inteligência Artificial}}$ como ferramenta de apoio à análise técnica.
 
 
-**Curadaoria de Fontes** 
+## **Curadaoria de Fontes** 
 
 A curadoria de fontes foi realizada com o objetivo de construir uma base de conhecimento tecnicamente confiável para o NotebookLM, priorizando contéudos relacionados a : $\color{green}{\text{Identity and Access Management (IAM), Governança de Segurança da Informação, controle de acesso, autenticação, autorização e Zero Trust.}}$
 
 Durante a primeira etapa do projeto, foram utilizados conteúdos audiovisuais para explorar diferentes perspectivas sobre os temas e observar o comportamento inicial do NotebookLM. 
 Posteriormente, a curadoria passou a priorizar $\color{green}{\text{documentação técnicas, normas, frameworks e materiais provenientes de fontes reconhecidas na área de Segurança da Informação.}}$
 
-**Critérios de Seleção**
+## **Critérios de Seleção**
 
 As fontes foram selecionadas considerando os seguintes critérios: 
 
@@ -65,7 +65,7 @@ As fontes foram selecionadas considerando os seguintes critérios:
 
 ⚪ $\color{green}{\text{Complementaridade:}}$ seleção de fontes capazes de abordar diferentes perspectivas do problema, evitando uma base de conhecimento excessivamente concentrada em um único conceito.
 
-**Fontes Selecionadas**
+## **Fontes Selecionadas**
 
 As fontes selecionadas abaixo serão utilizadas como base documental principal do NotebookLM e disponibilizadas ou referenciadas neste repositório. 
 
@@ -116,6 +116,38 @@ A utilização dessas fontes não tem apenas a finalidade de reunir conteúdo so
 Ao longo do projeto, respostas produzidas com diferentes níveis de contexto serão comparadas para observar como a $\color{red}{\text{qualidade, autoridade e especificidade das fontes}}$ influenciam a capacidade da IA de formular hipóteses, correlacionar conceitos e evitar inferências não sustentadas pelo material disponível.
 
 Essa abordagem permite avaliar não apenas $\color{red}{\text{o que a IA responde}}$, mas principalmente $\color{red}{\text{em quais evidências ela fundamenta sua resposta.}}$
+
+## $\color{red}{\text{ Engenharia de Prompts e Cicatrizes}}$
+
+Esta etapa documenta a evolução dos prompts utilizados no NotebookLM, as respostas obtidas e as limitações identificadas durante os testes.
+
+### $\color{red}{\text{Teste 01 - Prompt sem base de conhecimento}}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
