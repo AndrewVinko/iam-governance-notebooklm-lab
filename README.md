@@ -123,10 +123,33 @@ Esta etapa documenta a evolução dos prompts utilizados no NotebookLM, as respo
 
 ### $\color{red}{\text{Teste 01 - Prompt sem base de conhecimento}}$
 
+#### $\color{red}{\text{Prompt utilizado}}$
+Um usuário não consegue visualizar uma empresa em determinado sistema. 
+Quais podem ser as causas?? 
+
+#### $\color{red}{\text{Contexto do teste}}$ 
+Este teste foi realizado antes da inclusão de qualquer fonte de conhecimento no NotebookLM. O objetivo foi estabelecer uma linha de base para observar como a ferramenta responderia ao cenário utilizando apenas o prompt, sem documentos, referências técnicas ou materiais previamente adicionados ao notebook. 
+
+A resposta obtida nesta etapa serviria posteriormente como parâmetro de comparação para os testes realizados após a curadoria e inclusão de fontes especializadas sobre IAM, Governança e controle de acesso. 
+
+#### $\color{red}{\text{Resultado obtido}}$
+O NotebookLM informou que não havia fontes de informação disponíveis no notebook para responder à pergunta e sugeriu realizar uma pesquisa na web sobre possíveis causas relacionadas a acesso, permissão, parametrização, IAM e Governança.
+
+**Resposta exata do NotebookLM:** Não há fontes de informação no seu notebook para responder a essa pergunta.
+Gostaria que eu fizesse uma pesquisa na web para identificar as causas mais comuns de um usuário não conseguir visualizar uma empresa em um sistema (como problemas de permissão, parametrização ou regras de IAM e Governança)?
+
+#### $\color{red}{\text{Análise crítica}}$
+
+O teste demonstrou uma característica importante do NotebookLM: a qualidade e a profundidade da resposta dependem diretamente das fontes disponibilizadas no notebook
+
+Sem uma base documental previamente estruturada, a ferramenta não conseguiu produzir uma análise fundamentada sobre o cenário apresentado.
 
 
+#### $\color{red}{\text{ Cicatriz 01 - Ausência de contexto documental}}$
+Um prompt, mesmo sendo pertinente ao problema, não é suficiente quando a IA não possui contexto documental adequado. 
 
-
+#### $\color{red}{\text{Aprendizado}}$
+Antes de aprimorar a engenharia do prompt, é necessário construir uma base de conhecimento confiável, relevante e alinhada ao problema que será analisado.
 
 
 
