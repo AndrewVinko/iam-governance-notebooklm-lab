@@ -201,6 +201,27 @@ Mesmo cenário do $\color{red}{\text{Teste 01 e Teste 02}}$. O usuário já est�
 
 #### $\color{red}{\text{Resultado observado}}$
 
+Diferentemente do primeiro teste, o NotebookLM apresentou uma resposta significativamente mais estruturada, organizando as causas em oito hipóteses técnicas fundamentadas nas fontes fornecidas:
+
+- ausência de autorização ou privilégio adequado;
+- aplicação do princípio do menor privilégio;
+- política de acesso baseadas em contexto;
+- restrições relacionadas a Zero Trust;
+- dispositivo ou localização não autorizado;
+- microsegmentação e Software Defined Perimeter (SDP);
+- regras de segregação e conflito de interesse;
+- expiração de sessão ou token;
+- problemas relacionados a credenciais de integração ou serviço.
+
+#### $\color{red}{\text{Evolução observada}}$
+
+A inclusão das fontes transformou significativamente a qualidade da resposta, com melhor cobertura de domínios de IAM e Governança, além da introdução de conceitos técnicos pertinentes como Zero Trust, microsegmentação, políticas contextuais e segregação de funções. 
+
+
+#### $\color{red}{\text{Cicatriz 03 - Inferências não comprovadas mesmo após o refinamento do prompt}}$ 
+O prompt estruturado reduziu significativamente hipóteses excessivamente amplas e melhorou a priorização da análise. Entretanto, o modelo ainda apresentou afirmações e componentes arquiteturais não confirmados pelo cenário, como considerar determinado erro "a causa mais comum" ou pressupor tecnologias específicas. Isso demonstrou que melhorar o prompt reduz alucinações contextuais, mas não elimina a necessidade de fontes primárias e documentação específica do ambiente.
+
+#### $\color{red}{\text{Análise crítica}}$
 
 
 
