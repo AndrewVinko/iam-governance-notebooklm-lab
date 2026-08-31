@@ -223,6 +223,17 @@ O prompt estruturado reduziu significativamente hipóteses excessivamente amplas
 
 #### $\color{red}{\text{Análise crítica}}$
 
+- O modelo passou a organizar as hipóteses de forma lógica e técnica.
+- Diferenciou claramente os domínios de IAM: autenticação, autorização, vínculo, perfil/role e políticas.
+- Apresentou evidências especificas que devem ser verificadas para cada hipótese.
+- Priorizou a investigação de forma alinhada às boas práticas de troubleshooting. 
+
+#### $\color{red}{\text{Próximos passos}}$ 
+* Refinar o prompt melhora a qualidade e a estrutura da resposta, porém a precisão e a confiabilidade dependem diretamente da qualidade, autoridade e aderência das fontes utilizadas.
+
+* Adicionar fontes primárias e normativas (ex: NIST SP 800-53 Rev.5, NIST SP 800-63, NIST SP 800-207, ISO 27001/27002 E OWASP oficiais) e repetir exatamente o mesmo prompt para avaliar o impacto da autoridade do conteúdo na resposta.
+
+
 
 
 
