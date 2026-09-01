@@ -330,6 +330,14 @@ O teste demonstrou que a utilização de um processo explícito de auditoria e r
 
 A ferramenta conseguiu revisar afirmações anteriormente apresentadas com execesso de certeza e produzir formulações mais conservadoras quando a evidência documental não sustentava o caráter absoluto da conclusão.
 
+Essa etapa também evidenciou que a simples presença de uma informação nas fontes não garante que a relação estabelecida pela IA entre essa informação e a conclusão produzida esteja correta. 
+
+#### $\color{red}{\text{Cicratriz 05 - Transformação de boas práticas em requisitos normativos}}$
+
+Durante a geração do miniguia, algumas recomendações técnicas e práticas operacionais foram apresentadas pela IA como se fossem requisitos normativos obrigatórios. 
+
+Um dos exemplos mais evidentes ocorreu com a expiração de credenciais de App Registrations. A fonte descrevia uma prática de monitoramento que antecipava em três 
+
 
 
 
