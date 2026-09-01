@@ -324,6 +324,11 @@ Entre os principais resultados:
 - o prazo de três meses para o App Registrations foi identificado como uma interpretação incorreta: a fonte descrevia uma antecedência para alerta de expiração e não um período máximo de validade da credencial.
 
 
+#### $\color{red}{\text{Evolução observada}}$ 
+
+O teste demonstrou que a utilização de um processo explícito de auditoria e rastreabilidade permitiu ao NotebookLM identificar diferenças entre requisitos normativos, recomendações técnicas e práticas operacionais presente nas fontes.
+
+A ferramenta conseguiu revisar afirmações anteriormente apresentadas com execesso de certeza e produzir formulações mais conservadoras quando a evidência documental não sustentava o caráter absoluto da conclusão.
 
 
 
