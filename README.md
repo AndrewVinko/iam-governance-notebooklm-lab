@@ -234,8 +234,32 @@ O prompt estruturado reduziu significativamente hipóteses excessivamente amplas
 * Adicionar fontes primárias e normativas (ex: NIST SP 800-53 Rev.5, NIST SP 800-63, NIST SP 800-207, ISO 27001/27002 E OWASP oficiais) e repetir exatamente o mesmo prompt para avaliar o impacto da autoridade do conteúdo na resposta.
 
 
+### $\color{red}{\text{Teste 04 - Prompt estruturado com fontes normativas}}$ 
 
+#### $\color{red}{\text{Prompt utilizado}}$
+Um usuário autenticado não consegue visualizar uma determinada empresa em um sistema corporativo. Analise o cenário sob a perspectiva de Identity and Access Managemente (IAM) e Governança de Segurança. Considere apenas hipóteses sustentadas pelas fontes disponíveis. Diferencie problemas de autenticação, autorização, vínculo entre identidade e organização, perfil/role e políticas de acesso. Para cada hipótese, informe qual evidência deveria ser verificada antes de considerá-la provável. Não assuma que mecanismos como Zero Trust, geolocalização, microsegmentação ou restrições de dispositivo estejam implementados sem evidências. Ao final, apresente uma ordem recomendada de investigação, partindo das causas mais simples e prováveis para as mais complexas.
 
+#### $\color{red}{\text{Contexto do teste}}$ 
+Após os testes anteriores, a base de conhecimento do NotebookLm foi ampliada com documentos técnicos e normativos relacionados a Identity and Access Management (IAM), controle de acesso, identidade digital e governança de Segurança. 
+
+Nesta etapa, foram adicionadas fontes documentais relacionadas às famílias NIST SP 800-53 e NIST SP- 800-63, além de materiais referentes às normas ISO/IEC 27001 e ISO/IEC 27002. 
+
+#### $\color{red}{\text{Resultado observado}}$
+A resposta apresentou uma análise mais estruturada e fundamentada, separando o problema em diferentes camadas de IAM: 
+
+- autenticação;
+- vínculo entre identidade e organização;
+- perfil e Role-Based Access Control (RBAC);
+- políticas de acesso;
+- fluxo técnico de autorização. 
+
+O NotebookLM também passou a relacionar algumas verificações a controles específicos, como AC-2 (Account Management) e AC-3 (Access Enforcement), além de diferenciar de forma mais clara autenticação e autorização.
+
+A investigação foi organizada progressivamente, partindo da validação cadastral e dos atributos da identidade até verificações mais complexas relacionadas ao fluxo técnico de autorização.
+
+#### $\color{red}{\text{Evolução observada}}$
+
+Em comparação ao teste anterior, a inclusão de fontes normativas tornou 
 
 
 
