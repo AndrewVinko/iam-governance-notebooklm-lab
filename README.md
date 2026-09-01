@@ -336,7 +336,23 @@ Essa etapa também evidenciou que a simples presença de uma informação nas fo
 
 Durante a geração do miniguia, algumas recomendações técnicas e práticas operacionais foram apresentadas pela IA como se fossem requisitos normativos obrigatórios. 
 
-Um dos exemplos mais evidentes ocorreu com a expiração de credenciais de App Registrations. A fonte descrevia uma prática de monitoramento que antecipava em três 
+Um dos exemplos mais evidentes ocorreu com a expiração de credenciais de App Registrations. A fonte descrevia uma prática de monitoramento que antecipava em três meses o alerta de expiração, porém a resposta inicial transformou essa informação em um suposto prazo máximo de três meses para a validade das credenciais. 
+
+Também foram observadas extrapolações semelhantes envolvendo GUIDs, Just-In-Time, MFA e desprovisionamento. 
+
+O problema não estava necessariamente na ausência da informação dentro da base, mas na interpretação e na força normativa atribuída pela IA à informação recuperada. 
+
+
+#### $\colo{red}{\text{Aprendizado}}$
+
+Fontes confiáveis e engenharia de prompts aumentam significativamente a qualidade das respostas, mas não eliminam a necessidade de rastreabilidade e validação das afirmações produzidas. 
+
+Em documentos relacionados à Segurança da Informação e Governança, é fundamental distinguir: 
+
+- requisitos normativos;
+- recomendações;
+- exemplos de mercado;
+- interpretações produzidas pela IA.
 
 
 
