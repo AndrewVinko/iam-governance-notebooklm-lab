@@ -282,7 +282,40 @@ O experimento demonstrou que fontes confiáveis e prompts bem estruturados reduz
 Em contextos de cybersecurity, especialmente IAM e Governança, a IA deve ser utilizada como ferramenta de $\color{green}{\text{apoio à análise}}$, enquanto a validação das evidências e a decisão final permanecem sob responsabilidade do profissional. 
 
 
+### $\color{red}{\text{Teste 05 - Auditoria das afirmações geradas}}$ 
 
+#### $\color{red}{\text{Prompt utilizado}}$
+Foi solicitado ao NotebookLM que revisasse criticamente o miniguia produzido anteriormente utilizando exclusivamente as fontes disponíveis no notebook. 
+
+A ferramenta deveria identificar afirmações normativas, requisitos obrigatórios, valores numéricos, prazos e recomendações apresentadas de forma absoluta. 
+
+Para cada afirmação, foi solicitado: 
+
+1. apresentar a afirmação original;
+2. indicar a fonte utilizada;
+3. informar a seção ou controle correspondente, quando disponível;
+4. classificá-la como suportada, Parcialmente suportada ou Não suportada;
+5. justificar a classificação;
+6. propor uma redação mais conservadora quando necessário. 
+
+Também foi determinado que lacunas documentais não deveriam ser preenchidas com conhecimento externo. 
+
+#### $\color{red}{\text{Contexto do teste}}$ 
+
+Os experimentos anteriores demonstraram que a inclusão de fontes especializadas e documentos normativos aumentou significativamente a qualidade das respostas produzidas pelo NotebookLM. 
+
+Entretanto, durante a geração do miniguia final, foram identificadas afirmações apresentadas como requisitos obrigatórios ou regras gerais que poderiam representar extrapolações das fontes utilizadas. 
+
+O objetivo deste teste foi avaliar se, quando explicitamente solicitado a rastrear suas próprias afirmações até as evidências documentais, o NotebookLM seria capaz de identificar e corrigir essas extrapolações. 
+
+#### $\color{red}{\text{Resultado observado}}$
+
+O NotebookLM revisou oito grupos de afirmações consideradas sensíveis e classificou cada uma de acordo com o nível de sustentação encontrado nas fontes.
+
+Entre os principais resultados: 
+
+- o uso obrigatório de GUIDs foi classificado como parcialmente suportado;
+- 
 
 
 
