@@ -315,7 +315,13 @@ O NotebookLM revisou oito grupos de afirmações consideradas sensíveis e class
 Entre os principais resultados: 
 
 - o uso obrigatório de GUIDs foi classificado como parcialmente suportado;
-- 
+- o uso isolado de biometria foi rejeitado dentro do contexto normativo analisado;
+- a obrigatoriedade de MFA foi delimitada de acordo com os níveis AAL;
+- o termo "desprovisionamento imediato" foi substituído por uma formulação dependente do período definido pela organização;
+- o conceito de Just-In-Time foi separado entre sua utilização normativa relacionada à privacidade e sua aplicação operacional em elevação temporária de privilégios;
+- a imutabilidade de logs foi tratada como mecanismo possível de proteção, e não como característica inerente das trilhas de auditorias;
+- o modelo Brewer-Nash foi reposicionado como mecanismo dinâmico de controle relacionado a conflitos de interesse;
+- o prazo de três meses para o App Registrations foi identificado como uma interpretação incorreta: a fonte descrevia uma antecedência para alerta de expiração e não um período máximo de validade da credencial.
 
 
 
