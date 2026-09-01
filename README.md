@@ -354,6 +354,8 @@ Em documentos relacionados à Segurança da Informação e Governança, é funda
 - exemplos de mercado;
 - interpretações produzidas pela IA.
 
+O teste demonstrou que solicitar explicitamente fonte, seção, controle e nível de sustentação para cada afirmação é uma estratégia eficaz para reduzir extrapolações e aumentar a confiabilidade do conteúdo produzido com apoio de Inteligência Artificial.
+
 
 
 
