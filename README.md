@@ -259,9 +259,27 @@ A investigação foi organizada progressivamente, partindo da validação cadast
 
 #### $\color{red}{\text{Evolução observada}}$
 
-Em comparação ao teste anterior, a inclusão de fontes normativas tornou 
+Em comparação ao teste anterior, a inclusão de fontes normativas tornou a resposta mais alinhada aos conceitos formais de IAM e Governança de Segurança. 
 
+A análise deixou de apresentar uma quantidade excessiva de tecnologias e mecanismos avançados como hipóteses principais e passou a priorizar vínculo organizacional, provisionamento, roles, políticas e autorização.
 
+Também foi possível observar maior rastreabilidade entre determinadas recomendações e os controles presentes nas fontes utilizadas. 
+
+#### $\color{red}{\text{Cicatriz 04 - Persistência de inferências não comprovadas}}$ 
+
+Apesar da evolução observada, a resposta ainda apresentou algumas afirmações que não poderiam ser comprovadas exclusivamente pelo cenário ou pelas fontes disponibilizadas. 
+
+Um exemplo foi classificar a inconsistência cadastral como "a causa mais comum de incidentes", embora não tenham sido apresentados dados estatísticos que sustentassem essa conclusão.
+
+Também foram mencionadas tecnologias específicas, como JWT, SAML, LDAP, Active Directory, e API Gateway. Esses elementos são tecnicamente plausíveis como exemplos de implementação, mas sua existência no ambiente analisado não havia sido confirmada.
+
+#### $\color{red}{\text{Aprendizado}}$ 
+
+A inclusão de fontes normativas aumentou a precisão conceitual e a rastreabilidade da análise, mas não eliminou completamente a necessidade de avaliação humana sobre as conclusões produzidas pela IA. 
+
+O experimento demonstrou que fontes confiáveis e prompts bem estruturados reduzem inferências excessivas, porém não garantem que todas as afirmações geradas estejam diretamente sustentadas por evidências. 
+
+Em contextos de cybersecurity, especialmente IAM e Governança, a IA deve ser utilizada como ferramenta de $\color{green}{\text{apoio à análise}}$, enquanto a validação das evidências e a decisão final permanecem sob responsabilidade do profissional. 
 
 
 
