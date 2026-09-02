@@ -389,7 +389,7 @@ Em determinados cenários de federação de identidade, identificadores pseudôn
 
 GUIDs e UUIDs, por outro lado, são mecanismos técnicos comuns de identificação e não devem ser interpretados automaticamente como requisitos de privacidade ou pseudonimização.
 
-### $\color{blue}{\text{4. Autenticação e Autorização
+### $\color{blue}{\text{4. Autenticação e Autorização}}$
 
 Autenticação e autorização representam etapas distintas do controle de acesso. 
 
@@ -416,7 +416,7 @@ O RBAC organiza permissões com base em papéis ou funções organizacionais.
 
 Em vez de conceder privilégios individualmente a cada usuário, permissões são associadas a roles, permitindo maior pradonização e facilitando administração e auditoria. 
 
-$color{gree}{\text{Exemplo:}}$
+$color{green}{\text{Exemplo:}}$
 
 Um usuário associado à role de "Analista Financeiro" pode receber somente as permissões necessárias para executar atividades relacionadas à sua função.
 
