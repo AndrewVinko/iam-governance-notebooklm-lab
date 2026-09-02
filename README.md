@@ -367,7 +367,38 @@ O Gerenciamento de Identidade e Acesso (IAM) reúne processos, políticas e cont
 No contexto de Governança, Risco e Conformidade (GRC), o IAM contribui para a gestão de privilégios, rastreabilidade, redução de riscos de acesso indevido e atendimento a requisitos organizacionais e regulatórios.
 
 
-###
+### $\color{blue}{\text{2. Conceitos Fundamentais}}$
+
+#### $\color{red}{\text{Sujeito}}$
+
+Entidade humana ou não humana que solicita acesso a um recurso, como um usuário, serviço ou processo. 
+
+#### $\color{red}{\text{Objeto}}$
+
+Recurso sobre o qual o acesso é solicitado, como arquivos, aplicações, bancos de dados ou dispositivos.
+
+#### $\color{red}{\text{Direitos de Acesso}}$
+
+Definem quais operações um sujeito pode executar sobre determinado objeto, como leitura, escrita, execução ou exclusão.
+
+### $\color{blue}{\text{3. Identidade Digital}}$
+
+A identidade digital representa uma entidade em uma transação ou ambiente digital e permite que controles de autenticação, autorização e rastreabilidade sejam aplicados.
+
+Em determinados cenários de federação de identidade, identificadores pseudônimos podem ser utilizados para reduzir a possibilidade de correlação da identidade entre diferentes serviços. 
+
+GUIDs e UUIDs, por outro lado, são mecanismos técnicos comuns de identificação e não devem ser interpretados automaticamente como requisitos de privacidade ou pseudonimização.
+
+### $\color{blue}{\text{4. Autenticação e Autorização
+
+Autenticação e autorização representam etapas distintas do controle de acesso. 
+
+- **Autenticação:** verifica a identidade apresentada pelo usuário.
+- **Autorização:** determina quais recursos e operações essa identidade pode acessar após ser autenticada.
+
+A NIST SP 800-63B utiliza os Authenticator Assurance Levels (AAL) para representar diferentes níveis de garantia de autenticação.
+
+A autenticação multifator é exigida nos níveis AAL2 e AAL3, enquanto o AAL1 admite autenticação de fator único ou multifator.
 
 
 
