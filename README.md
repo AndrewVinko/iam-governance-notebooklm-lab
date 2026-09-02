@@ -294,7 +294,7 @@ Para cada afirmação, foi solicitado:
 1. apresentar a afirmação original;
 2. indicar a fonte utilizada;
 3. informar a seção ou controle correspondente, quando disponível;
-4. classificá-la como suportada, Parcialmente suportada ou Não suportada;
+4. classificá-la como Suportada, Parcialmente suportada ou Não suportada;
 5. justificar a classificação;
 6. propor uma redação mais conservadora quando necessário. 
 
@@ -319,20 +319,20 @@ Entre os principais resultados:
 - a obrigatoriedade de MFA foi delimitada de acordo com os níveis AAL;
 - o termo "desprovisionamento imediato" foi substituído por uma formulação dependente do período definido pela organização;
 - o conceito de Just-In-Time foi separado entre sua utilização normativa relacionada à privacidade e sua aplicação operacional em elevação temporária de privilégios;
-- a imutabilidade de logs foi tratada como mecanismo possível de proteção, e não como característica inerente das trilhas de auditorias;
+- a imutabilidade de logs foi tratada como mecanismo possível de proteção, e não como característica inerente das trilhas de auditoria;
 - o modelo Brewer-Nash foi reposicionado como mecanismo dinâmico de controle relacionado a conflitos de interesse;
-- o prazo de três meses para o App Registrations foi identificado como uma interpretação incorreta: a fonte descrevia uma antecedência para alerta de expiração e não um período máximo de validade da credencial.
+- o prazo de três meses atribuído ás credenciais de App Registrations foi identificado como uma interpretação incorreta: a fonte descrevia uma antecedência para alerta de expiração e não um período máximo de validade da credencial.
 
 
 #### $\color{red}{\text{Evolução observada}}$ 
 
-O teste demonstrou que a utilização de um processo explícito de auditoria e rastreabilidade permitiu ao NotebookLM identificar diferenças entre requisitos normativos, recomendações técnicas e práticas operacionais presente nas fontes.
+O teste demonstrou que a utilização de um processo explícito de auditoria e rastreabilidade permitiu ao NotebookLM identificar diferenças entre requisitos normativos, recomendações técnicas e práticas operacionais presentes nas fontes.
 
-A ferramenta conseguiu revisar afirmações anteriormente apresentadas com execesso de certeza e produzir formulações mais conservadoras quando a evidência documental não sustentava o caráter absoluto da conclusão.
+A ferramenta conseguiu revisar afirmações anteriormente apresentadas com excesso de certeza e produzir formulações mais conservadoras quando a evidência documental não sustentava o caráter absoluto da conclusão.
 
 Essa etapa também evidenciou que a simples presença de uma informação nas fontes não garante que a relação estabelecida pela IA entre essa informação e a conclusão produzida esteja correta. 
 
-#### $\color{red}{\text{Cicratriz 05 - Transformação de boas práticas em requisitos normativos}}$
+#### $\color{red}{\text{Cicatriz 05 - Transformação de boas práticas em requisitos normativos}}$
 
 Durante a geração do miniguia, algumas recomendações técnicas e práticas operacionais foram apresentadas pela IA como se fossem requisitos normativos obrigatórios. 
 
@@ -350,14 +350,24 @@ Fontes confiáveis e engenharia de prompts aumentam significativamente a qualida
 Em documentos relacionados à Segurança da Informação e Governança, é fundamental distinguir: 
 
 - requisitos normativos;
-- recomendações;
-- exemplos de mercado;
+- recomendações técnicas;
+- práticas de mercado;
+- exemplos de implementação;
 - interpretações produzidas pela IA.
 
 O teste demonstrou que solicitar explicitamente fonte, seção, controle e nível de sustentação para cada afirmação é uma estratégia eficaz para reduzir extrapolações e aumentar a confiabilidade do conteúdo produzido com apoio de Inteligência Artificial.
-Também foi observado que uma nova geração realizada após a auditoria pode introduzir novas afirmações ou extrapolações que não estavam presentes na versão anterior. Dessa forma, a correção de uma respota por meio de prompting não elimina a necessidade de uma revisão humana final do conteúdo consolidado.
+Também foi observado que uma nova geração realizada após a auditoria pode introduzir novas afirmações ou extrapolações que não estavam presentes na versão anterior. Dessa forma, a correção de uma resposta por meio de prompting não elimina a necessidade de uma revisão humana final do conteúdo consolidado.
+
+## $\color{red}{\text{Miniguia de estudos - IAM e Governança de Acessos}}$
+
+### $\color{blue}{\text{1. Visão Geral}}$
+
+O Gerenciamento de Identidade e Acesso (IAM) reúne processos, políticas e controles destinados a gerenciar identidades digitais e determinar como usuários e outras entidades acessam recursos organizacionais.
+
+No contexto de Governança, Risco e Conformidade (GRC), o IAM contribui para a gestão de privilégios, rastreabilidade, redução de riscos de acesso indevido e atendimento a requisitos organizacionais e regulatórios.
 
 
+###
 
 
 
