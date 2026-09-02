@@ -355,7 +355,7 @@ Em documentos relacionados à Segurança da Informação e Governança, é funda
 - interpretações produzidas pela IA.
 
 O teste demonstrou que solicitar explicitamente fonte, seção, controle e nível de sustentação para cada afirmação é uma estratégia eficaz para reduzir extrapolações e aumentar a confiabilidade do conteúdo produzido com apoio de Inteligência Artificial.
-
+Também foi observado que uma nova geração realizada após a auditoria pode introduzir novas afirmações ou extrapolações que não estavam presentes na versão anterior. Dessa forma, a correção de uma respota por meio de prompting não elimina a necessidade de uma revisão humana final do conteúdo consolidado.
 
 
 
