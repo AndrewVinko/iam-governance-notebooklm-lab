@@ -400,6 +400,49 @@ A NIST SP 800-63B utiliza os Authenticator Assurance Levels (AAL) para represent
 
 A autenticação multifator é exigida nos níveis AAL2 e AAL3, enquanto o AAL1 admite autenticação de fator único ou multifator.
 
+O uso de biometria deve ser analisado de acordo com os requisitos do mecanismo de autenticação adotado e não deve ser tratado isoladamente como equivalente a todos os demais tipos de autenticadores.
+
+### $\color{blue}{\text{5. Gerenciamento de Contas}}$ 
+
+Gerenciamento de contas envolve atividades como criação, alteração, suspensão e encerramento de identidades e seus respectivos acessos. 
+
+O controle AC-2 da NIST SP 800-53 estabelece requisitos relacionados ao gerenciamento dessas contas ao longo de seu ciclo de vida. 
+
+O prazo para desativação de acessos deve ser definido pela organização de acordo com su políticas, riscos e requisitos aplicáveis. 
+
+### $\color{blue}{\text{6. RBAC - Role-Based Access Control}}$
+
+O RBAC organiza permissões com base em papéis ou funções organizacionais. 
+
+Em vez de conceder privilégios individualmente a cada usuário, permissões são associadas a roles, permitindo maior pradonização e facilitando administração e auditoria. 
+
+$color{gree}{\text{Exemplo:}}$
+
+Um usuário associado à role de "Analista Financeiro" pode receber somente as permissões necessárias para executar atividades relacionadas à sua função.
+
+
+### $\color{blue}{\text{7. ABAC - Attribute-Based Access Control}}$
+
+O ABAC utiliza atributos para apoiar decisões de acesso. 
+Esses atributos podem estar relacionados a:
+
+- sujeito;
+- recuros;
+- ambiente;
+- ação solicitada.
+
+Por ser baseado em atributos e contexto, o ABAC permite políticas de autorização mais granulares e dinâmicas do que modelos exclusivamente baseado em roles. 
+
+### $\color{blue}{\text{8. Princípio do Menor Privilégio}}$
+
+O princípio do menor privilégio determina que usuários e contas devem possuir somente os acessos necessários para executar suas funções. 
+
+Na NIST SP 800-53, esse princípio está associado ao controle AC-6. 
+
+A aplicação adequada do menor privilégio reduz a exposição de recursos e limita o impacto potencial do uso indevido de uma conta. 
+
+
+
 
 
 
