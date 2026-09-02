@@ -343,7 +343,7 @@ Também foram observadas extrapolações semelhantes envolvendo GUIDs, Just-In-T
 O problema não estava necessariamente na ausência da informação dentro da base, mas na interpretação e na força normativa atribuída pela IA à informação recuperada. 
 
 
-#### $\colo{red}{\text{Aprendizado}}$
+#### $\color{red}{\text{Aprendizado}}$
 
 Fontes confiáveis e engenharia de prompts aumentam significativamente a qualidade das respostas, mas não eliminam a necessidade de rastreabilidade e validação das afirmações produzidas. 
 
