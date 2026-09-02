@@ -416,7 +416,7 @@ O RBAC organiza permissões com base em papéis ou funções organizacionais.
 
 Em vez de conceder privilégios individualmente a cada usuário, permissões são associadas a roles, permitindo maior pradonização e facilitando administração e auditoria. 
 
-$color{green}{\text{Exemplo:}}$
+$\color{green}{\text{Exemplo:}}$
 
 Um usuário associado à role de "Analista Financeiro" pode receber somente as permissões necessárias para executar atividades relacionadas à sua função.
 
