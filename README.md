@@ -442,6 +442,15 @@ Na NIST SP 800-53, esse princípio está associado ao controle AC-6.
 A aplicação adequada do menor privilégio reduz a exposição de recursos e limita o impacto potencial do uso indevido de uma conta. 
 
 
+### $\color{blue}{\text{9. Segregação de Funções - SoD}}$
+
+A Segregação de Funções busca evitar que uma única pessoa concentre responsabilidades incompatíveis dentro de um processo crítico. 
+
+Esse princípio aparece no controle AC-5 da NIST SP 800-53 e no controle 5.3 da ISO/IEC 27002:2022. 
+
+$\color{green}{\text{Exemplo:}}$
+
+Quem solicita determinado acesso não deveria necessariamente possuir autoridade para aprovar a própria solicitação.
 
 
 
