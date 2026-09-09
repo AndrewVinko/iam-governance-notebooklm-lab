@@ -453,6 +453,53 @@ $\color{green}{\text{Exemplo:}}$
 Quem solicita determinado acesso não deveria necessariamente possuir autoridade para aprovar a própria solicitação.
 
 
+### $\color{blue}{\text{10. Governança de Acessos}}$
+
+Governança de acessos envolve processos destinados a garantir que os privilégios concedidos permaneçam adequados ao longo do tempo. 
+
+Entre suas atividades estão: 
+
+- revisão periódica de acessos;
+- identificação de privilégios excessivos;
+- análise de contas sem vínculo válido;
+- aprovação formal de acessos;
+- manutenção de evidências para auditoria;
+- revisão após mudanças de função.
+
+
+O objetivo é manter os acessos alinhados à necessidade de negócio e aos princípios definidos pela organização. 
+
+$\color{blue}{\text{11. Ciclo Joiner-Mover-Leaver}}$
+
+O modelo Joiner-Mover-Leaver representa o ciclo de vida de uma identidade dentro da organização.
+
+#### $\color{green}{\text{Joiner}}$
+
+Entrada do usuário na organização e concessão inicial dos acessos necessários para sua função.
+
+#### $\color{green}{\text{Mover}}$
+
+Mudanças de função, área ou responsabilidade, exigindo revisão dos privilégios existentes.
+
+#### $\color{green}{\text{Leaver}}$
+
+Encerramento do vínculo e revogação dos acessos que não devem permanecer ativos.
+
+O ciclo JML ajuda a reduzir o acúmulo indevido de privilégios e a existência de contas sem vínculo organizacional válido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
