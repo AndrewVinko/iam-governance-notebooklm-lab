@@ -489,7 +489,36 @@ O ciclo JML ajuda a reduzir o acúmulo indevido de privilégios e a existência 
 
 
 
+### $\color{blue}{\text{12. Zero Trust}}$ 
 
+O Zero Trust, descrito na NIST SP 800-207, é um modelo arquitetural que reduz a confiança implícita baseada exclusivamente em localização de rede ou pertencimento ao ambiente interno.
+
+As decisões de acesso devem considerar continuamente fatores relacionados à identidade, ao recurso, ao contexto e às políticas de segurança. 
+
+Na arquitetura Zero Trust, componentes como Policy Decision Point (PDP) e Policy Enforcement Point (PEP) apoiam respectivamente a decisão e a aplicação das políticas de acesso.
+
+### $\color{blue}{\text{13. Checklist de Investigação de Problemas de Acesso}}$
+
+Quando um usuário está autenticado, mas não consegue acessar determinado recurso, uma investigação pode seguir uma ordem lógica.
+
+1. $\color{green}{\text{Validar o vínculo da Identidade}}$
+- confirmar se a conta esta ativa;
+- verificar atributos organizacionais associados ao usuário.
+
+2. $\color{green}{\text{Revisar roles e permissões}}$
+- confirmar associação a grupos ou perfis;
+- verificar se a role possui o privilégio necessário.
+
+3. $\color{green}{\text{Validar o processo de autorização}}$
+- confirmar se o acesso passou pelas aprovações exigidas;
+- verificar se existe solicitação formal correspondente.
+
+4. $\color{green}{\text{Analisar registros técnicos}}$
+- consultar logs de autenticação e autorização;
+- verificar erros relacionados à sessão ou ao mecanismo de acesso. 
+
+5. $\color{green}{\text{Verificar políticas adicionai}}$ 
+- analisar regras contextuais, restrições de negócio ou conflitos de interesse, quando esses mecanismos existirem no ambiente.
 
 
 
