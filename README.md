@@ -521,7 +521,9 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 - analisar regras contextuais, restrições de negócio ou conflitos de interesse, quando esses mecanismos existirem no ambiente.
 
 
+### $\color{blue}{\text{14. Glossário}}$ 
 
+-
 
 
 
