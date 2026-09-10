@@ -523,15 +523,16 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 
 ### $\color{blue}{\text{14. Glossário}}$ 
 
-- $\color{green}{\text{Subscriber}}$ entidade associada a uma identidade digital.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
-- $\color{green}{\text{    }}$.
+- $\color{green}{\text{Subscriber:}}$ entidade associada a uma identidade digital.
+- $\color{green}{\text{Claimant:}}$ entidade que reivindica uma identidade durante a autenticação.
+- $\color{green}{\text{Verifier:}}$. componente responsável por validar o autenticador apresentado.
+- $\color{green}{\text{Relying Party:}}$ sistema que utiliza a informação de autenticação para estabelecer uma sessão ou tomar decisões relacionadas ao acesso.
+- $\color{green}{\text{Authenticator:}}$ mecanismo utilizado para demonstrar controle sobre uma credencial ou identidade.
+- $\color{green}{\text{RBAC:}}$ controle de acesso baseado em papéis.
+- $\color{green}{\text{ABAC:}}$ controle de acesso baseado em atributos.
+- $\color{green}{\text{SoD:}}$ Segregation of Duties ou Segregação de Funções.
+- $\color{green}{\text{PDP:}}$ Policy Decision Point.
+- $\color{green}{\text{PEP:}}$ Policy Enforcement Point.
 
 
 
