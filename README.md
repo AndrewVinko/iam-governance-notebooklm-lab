@@ -523,7 +523,7 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 
 ### $\color{blue}{\text{14. Glossário}}$ 
 
-- $\color{green}{\text{Subscriber}}$entidade associada a uma identidade digital.
+- $\color{green}{\text{Subscriber}}$ entidade associada a uma identidade digital.
 - $\color{green}{\text{    }}$.
 - $\color{green}{\text{    }}$.
 - $\color{green}{\text{    }}$.
