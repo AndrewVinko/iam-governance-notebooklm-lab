@@ -558,15 +558,15 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > 
 > Apresente:
 > 
-> definição de cada conceito;
+> 1.definição de cada conceito;
 > 
-> principais diferenças;
+> 2.principais diferenças;
 > 
-> situações em que cada abordagem pode ser utilizada;
+> 3.situações em que cada abordagem pode ser utilizada;
 > 
-> vantagens e limitações
+> 4.vantagens e limitações
 > 
-> controles NIST ou ISO relacionados, quando disponíveis.
+> 5.controles NIST ou ISO relacionados, quando disponíveis.
 > 
 > Não trate exemplos técnicos como requisitos normativos.
 
