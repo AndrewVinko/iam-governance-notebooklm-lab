@@ -542,35 +542,62 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 #### $\color{gree}{\text{Prompt 1 - Revisão de Conceitos}}$
 
 > Com base exclusivamente nas fontes disponíveis, explique o conceito de (INSERIR CONCEITO) no contexto de Identity and Access Management (IAM)
+> 
 > Estrture a resposta em:
 > 1. definição;
 > 2. objetivo;
 > 3. aplicação prática;
 > 4. riscos associados;
 > 5. controles ou referências normativas relacionadas.
+> 
 > Diferencie claramente requisitos normativos, recomendações e exemplos de implementação. Não introduza informações que não estejam sustentadas pelas fontes.
 
 #### $\color{gree}{\text{Prompt 2 - Comparação entre Conroles de Acesso}}$
 
 > Compare (CONCEITO A) e (CONCEITO B) utilizando exclusivamente as fontes disponíveis.
+> 
 > Apresente:
 > definição de cada conceito;
 > principais diferenças;
 > situações em que cada abordagem pode ser utilizada;
 > vantagens e limitações
 > controles NIST ou ISO relacionados, quando disponíveis.
+> 
 > Não trate exemplos técnicos como requisitos normativos.
 
 
 
-#### $\color{gree}{\text{}}$
+#### $\color{gree}{\text{Prompt 3 - Investigação de Problema de Acesso}}$
+
+> Um usuário está autenticado com sucesso, mas não consegue acessar (RECURSO/SISTEMA).
+> Analise o cenário sob a perspectiva de IAM e Governança de Acessos.
+> 
+> Separe a investigação em;
+> 1. vínculo da identidade;
+> 2. roles e permissões;
+> 3. políticas de acesso;
+> 4. evidências e logs necessários.
+>
+> Para cada hipótese, informe qual evidência deveria ser coletada antes de considerá-la confirmada.
+>
+> Não assuma que tecnologias ou controles específicos estejam implementados no ambiente sem evidência explícita.
 
 
+#### $\color{gree}{\text{Prompt 4 - Análise de Controle Normativo}}$
 
-#### $\color{gree}{\text{}}$
+> Analise o controle (INSERIR CONTROLE) da (NIST/ISO) utilizando exclusivamente as fontes disponíveis.
+>
+> Explique:
+> objetivo do controle;
+> problema de segurança que busca mitigar;
+> responsabilidades envolvidas;
+> possíveis evidências para auditoria;
+> exemplos de implementação.
+>
+> Diferencie explicitamente o texto normativo das possíveis práticas técnicas utilizadas para implementá-lo.
 
 
-#### $\color{gree}{\text{}}$
+#### $\color{gree}{\text{Prompt 5 - Auditoria de uma Resposta Gerada por IA}}$
 
 
 #### $\color{gree}{\text{}}$
