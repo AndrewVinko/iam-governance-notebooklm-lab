@@ -589,11 +589,11 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > Analise o controle (INSERIR CONTROLE) da (NIST/ISO) utilizando exclusivamente as fontes disponíveis.
 >
 > Explique:
-> objetivo do controle;
-> problema de segurança que busca mitigar;
-> responsabilidades envolvidas;
-> possíveis evidências para auditoria;
-> exemplos de implementação.
+> 1. objetivo do controle;
+> 2. problema de segurança que busca mitigar;
+> 3. responsabilidades envolvidas;
+> 4. possíveis evidências para auditoria;
+> 5. exemplos de implementação.
 >
 > Diferencie explicitamente o texto normativo das possíveis práticas técnicas utilizadas para implementá-lo.
 
