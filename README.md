@@ -539,7 +539,7 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 
 Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, Governança de Acessos e análise de controles de Segurança da Informação.
 
-#### $\color{gree}{\text{Prompt 1 - Revisão de Conceitos}}$
+#### $\color{green}{\text{Prompt 1 - Revisão de Conceitos}}$
 
 > Com base exclusivamente nas fontes disponíveis, explique o conceito de (INSERIR CONCEITO) no contexto de Identity and Access Management (IAM)
 > 
@@ -552,7 +552,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > 
 > Diferencie claramente requisitos normativos, recomendações e exemplos de implementação. Não introduza informações que não estejam sustentadas pelas fontes.
 
-#### $\color{gree}{\text{Prompt 2 - Comparação entre Conroles de Acesso}}$
+#### $\color{green}{\text{Prompt 2 - Comparação entre Conroles de Acesso}}$
 
 > Compare (CONCEITO A) e (CONCEITO B) utilizando exclusivamente as fontes disponíveis.
 > 
@@ -567,7 +567,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 
 
-#### $\color{gree}{\text{Prompt 3 - Investigação de Problema de Acesso}}$
+#### $\color{green}{\text{Prompt 3 - Investigação de Problema de Acesso}}$
 
 > Um usuário está autenticado com sucesso, mas não consegue acessar (RECURSO/SISTEMA).
 > Analise o cenário sob a perspectiva de IAM e Governança de Acessos.
@@ -583,7 +583,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > Não assuma que tecnologias ou controles específicos estejam implementados no ambiente sem evidência explícita.
 
 
-#### $\color{gree}{\text{Prompt 4 - Análise de Controle Normativo}}$
+#### $\color{green}{\text{Prompt 4 - Análise de Controle Normativo}}$
 
 > Analise o controle (INSERIR CONTROLE) da (NIST/ISO) utilizando exclusivamente as fontes disponíveis.
 >
@@ -597,13 +597,13 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > Diferencie explicitamente o texto normativo das possíveis práticas técnicas utilizadas para implementá-lo.
 
 
-#### $\color{gree}{\text{Prompt 5 - Auditoria de uma Resposta Gerada por IA}}$
+#### $\color{green}{\text{Prompt 5 - Auditoria de uma Resposta Gerada por IA}}$
 
 
-#### $\color{gree}{\text{}}$
+#### $\color{green}{\text{}}$
 
 
-#### $\color{gree}{\text{}}$
+#### $\color{green}{\text{}}$
 
 
 
