@@ -557,10 +557,15 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > Compare (CONCEITO A) e (CONCEITO B) utilizando exclusivamente as fontes disponíveis.
 > 
 > Apresente:
+> 
 > definição de cada conceito;
+> 
 > principais diferenças;
+> 
 > situações em que cada abordagem pode ser utilizada;
+> 
 > vantagens e limitações
+> 
 > controles NIST ou ISO relacionados, quando disponíveis.
 > 
 > Não trate exemplos técnicos como requisitos normativos.
