@@ -554,10 +554,10 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 
 Um dos principais aprendizados deste laboratório foi a necessidade de diferenciar o nível de autoridade das informações utilizadas em análises de Segurança da Informação.
 
-- $\color{green}{\text{Requisito normativo: }$$ obrigação ou controle definido dentro do escopo de uma norma ou publicação aplicável.
-- $\color{green}{\text{Recomendação técnica: }$$ orientalção destinada a reduzir riscos ou melhorar a implementação de determinado controle.
-- $\color{green}{\text{Prática de mercado: }$$ abordagem utilizada operacionalmente por organizações ou tecnologias específicas.
-- $\color{green}{\text{Exemplo de implementação: }$$ uma possível forma técnica de aplicar um princípio ou controle.
+- $\color{green}{\text{Requisito normativo: }}$ obrigação ou controle definido dentro do escopo de uma norma ou publicação aplicável.
+- $\color{green}{\text{Recomendação técnica: }}$ orientalção destinada a reduzir riscos ou melhorar a implementação de determinado controle.
+- $\color{green}{\text{Prática de mercado: }}$ abordagem utilizada operacionalmente por organizações ou tecnologias específicas.
+- $\color{green}{\text{Exemplo de implementação: }}$ uma possível forma técnica de aplicar um princípio ou controle.
 
 Uma prática de mercado não deve ser automaticamente tratada como requisito normativo, assim como um exemplo de implementação não representa a única forma válida de atender determinado controle.  
 
