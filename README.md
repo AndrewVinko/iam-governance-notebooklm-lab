@@ -535,18 +535,48 @@ Quando um usuário está autenticado, mas não consegue acessar determinado recu
 - $\color{green}{\text{PEP:}}$ Policy Enforcement Point.
 
 
+### $\color{blue}{\text{15. Prompts Reutilizáveis para Estudos e Revisões}}$
+
+Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, Governança de Acessos e análise de controles de Segurança da Informação.
+
+#### $\color{gree}{\text{Prompt 1 - Revisão de Conceitos}}$
+
+> Com base exclusivamente nas fontes disponíveis, explique o conceito de (INSERIR CONCEITO) no contexto de Identity and Access Management (IAM)
+> Estrture a resposta em:
+> 1. definição;
+> 2. objetivo;
+> 3. aplicação prática;
+> 4. riscos associados;
+> 5. controles ou referências normativas relacionadas.
+> Diferencie claramente requisitos normativos, recomendações e exemplos de implementação. Não introduza informações que não estejam sustentadas pelas fontes.
+
+#### $\color{gree}{\text{Prompt 2 - Comparação entre Conroles de Acesso}}$
+
+> Compare (CONCEITO A) e (CONCEITO B) utilizando exclusivamente as fontes disponíveis.
+> Apresente:
+> definição de cada conceito;
+> principais diferenças;
+> situações em que cada abordagem pode ser utilizada;
+> vantagens e limitações
+> controles NIST ou ISO relacionados, quando disponíveis.
+> Não trate exemplos técnicos como requisitos normativos.
 
 
 
+#### $\color{gree}{\text{}}$
 
 
 
+#### $\color{gree}{\text{}}$
 
 
+#### $\color{gree}{\text{}}$
 
 
+#### $\color{gree}{\text{}}$
 
 
+#### $\color{gree}{\text{}}$
 
 
 
