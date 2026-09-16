@@ -541,7 +541,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 #### $\color{green}{\text{Prompt 1 - Revisão de Conceitos}}$
 
-> Com base exclusivamente nas fontes disponíveis, explique o conceito de (INSERIR CONCEITO) no contexto de Identity and Access Management (IAM)
+> Com base exclusivamente nas fontes disponíveis, explique o conceito de [INSERIR CONCEITO] no contexto de Identity and Access Management (IAM)
 > 
 > Estrture a resposta em:
 > 1. definição;
@@ -554,7 +554,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 #### $\color{green}{\text{Prompt 2 - Comparação entre Conroles de Acesso}}$
 
-> Compare (CONCEITO A) e (CONCEITO B) utilizando exclusivamente as fontes disponíveis.
+> Compare [CONCEITO A] e [CONCEITO B] utilizando exclusivamente as fontes disponíveis.
 > 
 > Apresente:
 > 
@@ -570,7 +570,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 #### $\color{green}{\text{Prompt 3 - Investigação de Problema de Acesso}}$
 
-> Um usuário está autenticado com sucesso, mas não consegue acessar (RECURSO/SISTEMA).
+> Um usuário está autenticado com sucesso, mas não consegue acessar [RECURSO/SISTEMA].
 > Analise o cenário sob a perspectiva de IAM e Governança de Acessos.
 > 
 > Separe a investigação em;
@@ -586,7 +586,7 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 #### $\color{green}{\text{Prompt 4 - Análise de Controle Normativo}}$
 
-> Analise o controle (INSERIR CONTROLE) da (NIST/ISO) utilizando exclusivamente as fontes disponíveis.
+> Analise o controle [INSERIR CONTROLE] da [NIST/ISO] utilizando exclusivamente as fontes disponíveis.
 >
 > Explique:
 > 1. objetivo do controle;
@@ -600,8 +600,36 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 
 #### $\color{green}{\text{Prompt 5 - Auditoria de uma Resposta Gerada por IA}}$
 
+> Revise criticamente a resposta abaixo utilizando exclusivamente as fontes disponíveis:
+>
+> [INSERIR RESPOSTA]
+>
+> Identifique afirmações normativas, valores, prazos, tecnologias, recomendações ou conclusões apresentadas de forma absoluta.
+>
+> Para cada afirmação:
+> 1. indique a fonte correspondente;
+> 2. informe a seção ou controle, quando disponível;
+> 3. classifique como suportada, Parcialmente suportada, ou Não suportada;
+> 4. justifique a classificação;
+> 5. proponha uma redação mais conservadora quando necessário.
+>
+> Não utilize conhecimento externo para preencher lacunas documentais. 
 
-#### $\color{green}{\text{}}$
+
+#### $\color{green}{\text{Prompt 6 - Revisão para Auditoria de Acessos}}$
+
+> Com base exclusivamete nas fontes disponíveis, crie um checklist para revisão periódica de acessos em um ambiente corporativo.
+>
+> Considere:
+> 1. contas ativas;
+> 2. usuários sem vínculo válido;
+> 3. privilégios excessivos;
+> 4. mudanças de funções;
+> 5. contas administrativas;
+> 6. evidências de aprovação
+> 7. registros para auditoria.
+>
+> Relacione os itens aos controles normativos presentes nas fontes sempre que essa associação puder ser comprovada.
 
 
 #### $\color{green}{\text{}}$
