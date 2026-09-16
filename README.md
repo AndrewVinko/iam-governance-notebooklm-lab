@@ -632,8 +632,21 @@ Os prompots abaixo foram estruturados para apoiar futuras revisões sobre IAM, G
 > Relacione os itens aos controles normativos presentes nas fontes sempre que essa associação puder ser comprovada.
 
 
-#### $\color{green}{\text{}}$
+#### $\color{green}{\text{Prompt 7 - Cenário Joiner-Mover-Leaver}}$
 
+> Analise o seguinte cenário de ciclo de vida de identidade:
+>
+> [INSERIR CENÁRIO]
+>
+> Classifique os eventos como Joiner, Mover ou Leaver e identifique:
+>
+> 1. acessos que devem ser concedidos, revisados ou removidos;
+> 2. riscos associados;
+> 3. responsáveis pelo processo;
+> 4. evidências que deveriam ser mantidas para auditoria;
+> 5. princípios de IAM e Governança relacionados.
+>
+> Não determine prazos ou procedimentos específicos que não estejam definidos nas fontes ou no cenário apresentado.
 
 
 ### $\color{blue}{\text{16. Norma, Recomendação e Prática de Mercado}}$
